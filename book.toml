@@ -17,7 +17,7 @@ site-url = "/dev-docs/"
 git-repository-url = "https://github.com/pace-rs/dev-docs"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/pace-rs/dev-docs/edit/main/{path}"
-cname = "pace-rs.github.io"
+cname = "pace.cli.rs"
 additional-css = ["./styles/last-changed.css"]
 
 [output.html.fold]
