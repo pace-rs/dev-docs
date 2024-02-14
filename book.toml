@@ -1,0 +1,25 @@
+[book]
+authors = ["the pace authors"]
+description = "pace - Mindful Time Tracking: Simplify Your Focus and Boost Productivity Effortlessly."
+language = "en"
+multilingual = false
+src = "src"
+title = "pace dev documentation"
+
+[preprocessor.last-changed]
+command = "mdbook-last-changed"
+renderer = ["html"]
+
+[output.html]
+curly-quotes = true
+default-theme = "ayu"
+site-url = "/dev-docs/"
+git-repository-url = "https://github.com/pace-rs/dev-docs"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/pace-rs/dev-docs/edit/main/{path}"
+cname = "pace.cli.rs"
+additional-css = ["./styles/last-changed.css"]
+
+[output.html.fold]
+enable = true
+level = 0
