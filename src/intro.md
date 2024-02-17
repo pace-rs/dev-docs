@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_dev.png" height="275" />
+<img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_dev.png" style="width: 66%; height: auto" />
 <p>
 
 # Introduction
