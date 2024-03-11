@@ -18,31 +18,6 @@
   - [Frequently Asked Technical Questions (FATQs)](./appendix/FATQ.md)
 
 <!--
-4. Data Management
-   - Activity Log Storage
-   - Importing and Exporting Data
-   - Editing Activity Logs
-
-5. Time Tracking Concepts
-   - Activity, Intermission, Task
-   - Activity Status and Lifecycle
-   - Pomodoro Technique Integration
-
-6. Advanced Features
-   - Review Generation
-   - Team Collaboration
-   - Billing and Invoicing
-
-7. Integration and Extensibility
-   - Database Integration
-   - Web API for Integration
-   - Plugin System
-
-8. Best Practices and Tips
-   - Time Zone Handling
-   - Activity Organization Strategies
-   - Data Backup and Recovery
-
 9. Developer Guide
    - Code Structure Overview
    - Contributing Guidelines

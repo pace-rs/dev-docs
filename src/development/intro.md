@@ -23,7 +23,8 @@ scoop install just
 
 ## Development dependencies
 
-After you hav installed `just`, you can install the development dependencies with:
+After you hav installed `just`, you can install the development dependencies
+with:
 
 ```bash
 just install-dev-deps
