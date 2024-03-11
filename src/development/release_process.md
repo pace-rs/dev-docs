@@ -56,4 +56,4 @@
 
 1. **Review and Merge the release-plz PR**: After the release PR has been reviewed and all
    checks have passed, merge the release-plz PR. This will trigger the release
-   workflow and create a release for the version(s) mentioned in the PR. At this stage, you are done with the release process.
+   workflow and create a release for the version(s) mentioned in the PR and push the versions to `crates.io`. At this stage, you are done with the release process.
