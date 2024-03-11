@@ -22,7 +22,7 @@ install it by running `cargo install mdbook`.
 
 ### Additional dependencies
 
-- `cargo install mdbook-last-changed` for date changes in the footer
+- `cargo install mdbook-last-changed --locked` for date changes in the footer
 
 ## Building with mdbook
 

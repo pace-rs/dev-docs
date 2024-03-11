@@ -12,7 +12,7 @@ process.
 Install `just` with:
 
 ```bash
-cargo install just
+cargo install just --locked
 ```
 
 or by using [`scoop`](https://scoop.sh/):
