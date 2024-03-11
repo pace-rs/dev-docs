@@ -28,7 +28,7 @@
    following command to make the latest release:
 
    ```console
-   just make-latest:
+   just make-latest
    ```
 
 1. **Update scoop manifest**: After the release has been made, update the
