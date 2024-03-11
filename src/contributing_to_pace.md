@@ -139,7 +139,7 @@ To contribute code changes, follow these steps:
 3. **Check** and **Commit** your changes:
 
    ```bash
-   just pre-commit
+   just pr
    git commit -m "Add your meaningful commit message here"
    ```
 
