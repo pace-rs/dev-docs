@@ -13,12 +13,28 @@ reflection on task durations, and a harmonious balance between work and rest.
 
 Whether you're a developer, a writer, or anyone who values structured time
 management, pace provides the framework to log activities, review progress, and
-optimize how you spend your time.
+optimize how you spend your time. pace is designed to be a flexible and
+customizable tool that adapts to your unique workflow.
 
-With features like the first activity wizard for onboarding new users, real-time
+<!-- With features like the first activity wizard for onboarding new users, real-time
 configuration validation (upcoming), and personalized activity logs, pace is
 more than a time tracker — it's your partner in crafting a productive and
-mindful routine.
+mindful routine. -->
+
+## Target Audience
+
+This documentation is aimed at developers, contributors and other technical
+audiences who are interested in learning more about the pace application. It
+provides an overview of the application, its features, and guidance on how to
+use and contribute to the project. If you are a user of the pace application,
+you can find user documentation at [pace.cli.rs/docs](https://pace.cli.rs/docs).
+
+## Purpose of Documentation
+
+The purpose of this documentation is to provide a comprehensive guide to the
+pace application. It is intended to help users understand the features and
+functionality of the application, as well as provide guidance on how to use and
+contribute to the project.
 
 ## Contact
 
