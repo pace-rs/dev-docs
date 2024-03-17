@@ -23,3 +23,20 @@ additional-css = ["./styles/last-changed.css"]
 [output.html.fold]
 enable = true
 level = 1
+
+[output.pandoc]
+optional = true
+hosted-html = "https://pace.cli.rs/dev-docs/"
+
+[output.pandoc.profile.pdf]
+output-file = "pace-dev-docs.pdf"
+pdf-engine = "lualatex"
+
+[output.pandoc.profile.pdf.variables]
+mainfont = "Noto Serif"
+sansfont = "Noto Sans"
+monofont = "Noto Sans Mono"
+mainfontfallback = ["NotoSerifCJKSC:"]
+geometry = ["margin=1.25in"]
+linkcolor = "blue"
+urlcolor = "red"
