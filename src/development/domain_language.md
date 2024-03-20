@@ -148,8 +148,8 @@ include relevant GTD and PARA terms:
 - **Explanation:** Archives in PARA are where completed, inactive, or irrelevant
   projects and tasks are stored. In Pace, completed projects and activities
   could be moved to an archive section, helping users keep their active
-  workspace clutter-free while retaining access to past records for review or
-  analysis.
+  workspace clutter-free while retaining access to past records for reflection
+  or analysis.
 
 Incorporating these terms from GTD and PARA into Pace not only broadens its
 applicability across different productivity systems but also provides users with
